@@ -1,0 +1,14 @@
+{
+  "name": "BudgetFlow",
+  "description": "A comprehensive monthly budget tracker for income, expenses, and wishlist management with detailed visual analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "finance",
+    "analytics",
+    "dashboard"
+  ]
+}
